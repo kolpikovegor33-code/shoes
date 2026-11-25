@@ -1,0 +1,164 @@
+﻿<Window x:Class="shoes.OrdersWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Заказы"
+        Icon="/Image/Icon.png"
+        Height="700"
+        Width="950"
+        MinWidth="800"
+        WindowStartupLocation="CenterOwner"
+        FontFamily="Times New Roman"
+        FontSize="14"
+        Background="White">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="90"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0" Background="#7FFF00">
+            <Image Source="/Image/Icon.png"
+                   Width="70"
+                   Height="70"
+                   HorizontalAlignment="Left"
+                   VerticalAlignment="Center"
+                   Margin="10"
+                   Stretch="Uniform"/>
+
+            <TextBlock Text="Заказы"
+                       FontSize="28"
+                       FontWeight="Bold"
+                       VerticalAlignment="Center"
+                       HorizontalAlignment="Center"/>
+        </Grid>
+
+        <StackPanel Grid.Row="1"
+                    Orientation="Horizontal"
+                    Margin="10,10,10,0">
+
+            <Button x:Name="buttonBack"
+                    Content="Назад"
+                    Width="120"
+                    Height="30"
+                    Margin="0,0,10,0"
+                    Background="White"
+                    Click="ButtonBack_Click"/>
+
+            <Button x:Name="buttonAddOrder"
+                    Content="Добавить заказ"
+                    Width="140"
+                    Height="30"
+                    Margin="0,0,10,0"
+                    Background="#00FA9A"
+                    Visibility="Collapsed"
+                    Click="ButtonAddOrder_Click"/>
+
+            <Button x:Name="buttonDeleteOrder"
+                    Content="Удалить заказ"
+                    Width="140"
+                    Height="30"
+                    Background="White"
+                    Visibility="Collapsed"
+                    Click="ButtonDeleteOrder_Click"/>
+        </StackPanel>
+
+        <Grid Grid.Row="2">
+            <ListBox x:Name="listOrders"
+                     Margin="10"
+                     BorderThickness="0"
+                     Background="White"
+                     HorizontalContentAlignment="Stretch"
+                     ScrollViewer.HorizontalScrollBarVisibility="Disabled"
+                     ScrollViewer.VerticalScrollBarVisibility="Auto"
+                     MouseDoubleClick="ListOrders_MouseDoubleClick">
+
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <Border BorderBrush="Black"
+                                BorderThickness="1"
+                                Padding="5"
+                                Margin="0,5,0,5">
+
+                            <Grid MinHeight="130">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="170"/>
+                                </Grid.ColumnDefinitions>
+
+                                <Border Grid.Column="0"
+                                        BorderBrush="Black"
+                                        BorderThickness="1"
+                                        Margin="0,0,5,0"
+                                        Padding="8">
+                                    <StackPanel>
+                                        <TextBlock Text="{Binding Title, Mode=OneWay}"
+                                                   FontSize="16"
+                                                   FontWeight="Bold"
+                                                   TextWrapping="Wrap"/>
+
+                                        <TextBlock TextWrapping="Wrap">
+                                            <Run Text="Статус: "/>
+                                            <Run Text="{Binding Status, Mode=OneWay}"/>
+                                        </TextBlock>
+
+                                        <TextBlock TextWrapping="Wrap">
+                                            <Run Text="Клиент: "/>
+                                            <Run Text="{Binding Client, Mode=OneWay}"/>
+                                        </TextBlock>
+
+                                        <TextBlock TextWrapping="Wrap">
+                                            <Run Text="Пункт выдачи: "/>
+                                            <Run Text="{Binding Pickup, Mode=OneWay}"/>
+                                        </TextBlock>
+
+                                        <TextBlock TextWrapping="Wrap">
+                                            <Run Text="Состав заказа: "/>
+                                            <Run Text="{Binding Composition, Mode=OneWay}"/>
+                                        </TextBlock>
+
+                                        <TextBlock>
+                                            <Run Text="Код получения: "/>
+                                            <Run Text="{Binding Code, Mode=OneWay}"/>
+                                        </TextBlock>
+
+                                        <TextBlock>
+                                            <Run Text="Дата заказа: "/>
+                                            <Run Text="{Binding OrderDate, Mode=OneWay}"/>
+                                        </TextBlock>
+                                    </StackPanel>
+                                </Border>
+
+                                <Border Grid.Column="1"
+                                        BorderBrush="Black"
+                                        BorderThickness="1">
+                                    <StackPanel VerticalAlignment="Center"
+                                                HorizontalAlignment="Center">
+                                        <TextBlock Text="Дата доставки"
+                                                   FontWeight="Bold"
+                                                   TextAlignment="Center"/>
+
+                                        <TextBlock Text="{Binding DeliveryDate, Mode=OneWay}"
+                                                   FontSize="20"
+                                                   FontWeight="Bold"
+                                                   TextAlignment="Center"
+                                                   Margin="0,5,0,0"/>
+                                    </StackPanel>
+                                </Border>
+                            </Grid>
+                        </Border>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+
+            <TextBlock x:Name="textNoOrders"
+                       Text="Заказов пока нет"
+                       FontSize="18"
+                       Foreground="Gray"
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       Visibility="Collapsed"/>
+        </Grid>
+    </Grid>
+</Window>

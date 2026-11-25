@@ -1,0 +1,435 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\mm\\shoes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC5EAB-C380-FAC8-FF55-64E9A513E691}|shoes.csproj|c:\\users\\\u0435\u0433\u043E\u0440\\source\\repos\\mm\\shoes\\orderswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EC5EAB-C380-FAC8-FF55-64E9A513E691}|shoes.csproj|solutionrelative:orderswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC5EAB-C380-FAC8-FF55-64E9A513E691}|shoes.csproj|c:\\users\\\u0435\u0433\u043E\u0440\\source\\repos\\mm\\shoes\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EC5EAB-C380-FAC8-FF55-64E9A513E691}|shoes.csproj|solutionrelative:loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC5EAB-C380-FAC8-FF55-64E9A513E691}|shoes.csproj|c:\\users\\\u0435\u0433\u043E\u0440\\source\\repos\\mm\\shoes\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{30EC5EAB-C380-FAC8-FF55-64E9A513E691}|shoes.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC5EAB-C380-FAC8-FF55-64E9A513E691}|shoes.csproj|c:\\users\\\u0435\u0433\u043E\u0440\\source\\repos\\mm\\shoes\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EC5EAB-C380-FAC8-FF55-64E9A513E691}|shoes.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC5EAB-C380-FAC8-FF55-64E9A513E691}|shoes.csproj|c:\\users\\\u0435\u0433\u043E\u0440\\source\\repos\\mm\\shoes\\ordereditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{30EC5EAB-C380-FAC8-FF55-64E9A513E691}|shoes.csproj|solutionrelative:ordereditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC5EAB-C380-FAC8-FF55-64E9A513E691}|shoes.csproj|c:\\users\\\u0435\u0433\u043E\u0440\\source\\repos\\mm\\shoes\\ordereditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EC5EAB-C380-FAC8-FF55-64E9A513E691}|shoes.csproj|solutionrelative:ordereditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC5EAB-C380-FAC8-FF55-64E9A513E691}|shoes.csproj|c:\\users\\\u0435\u0433\u043E\u0440\\source\\repos\\mm\\shoes\\orderswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{30EC5EAB-C380-FAC8-FF55-64E9A513E691}|shoes.csproj|solutionrelative:orderswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC5EAB-C380-FAC8-FF55-64E9A513E691}|shoes.csproj|c:\\users\\\u0435\u0433\u043E\u0440\\source\\repos\\mm\\shoes\\productwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{30EC5EAB-C380-FAC8-FF55-64E9A513E691}|shoes.csproj|solutionrelative:productwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC5EAB-C380-FAC8-FF55-64E9A513E691}|shoes.csproj|c:\\users\\\u0435\u0433\u043E\u0440\\source\\repos\\mm\\shoes\\productwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EC5EAB-C380-FAC8-FF55-64E9A513E691}|shoes.csproj|solutionrelative:productwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC5EAB-C380-FAC8-FF55-64E9A513E691}|shoes.csproj|c:\\users\\\u0435\u0433\u043E\u0440\\source\\repos\\mm\\shoes\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{30EC5EAB-C380-FAC8-FF55-64E9A513E691}|shoes.csproj|solutionrelative:loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC5EAB-C380-FAC8-FF55-64E9A513E691}|shoes.csproj|c:\\users\\\u0435\u0433\u043E\u0440\\source\\repos\\mm\\shoes\\models\\manufacturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EC5EAB-C380-FAC8-FF55-64E9A513E691}|shoes.csproj|solutionrelative:models\\manufacturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC5EAB-C380-FAC8-FF55-64E9A513E691}|shoes.csproj|c:\\users\\\u0435\u0433\u043E\u0440\\source\\repos\\mm\\shoes\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{30EC5EAB-C380-FAC8-FF55-64E9A513E691}|shoes.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0415\u0433\u043E\u0440\\AppData\\Local\\Temp\\.vsdbgsrc\\bed5b82c0d9f7911686d93abe490c7a7cc74d504e5b20b2499f2b1a9a1a8dd57\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC5EAB-C380-FAC8-FF55-64E9A513E691}|shoes.csproj|c:\\users\\\u0435\u0433\u043E\u0440\\source\\repos\\mm\\shoes\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EC5EAB-C380-FAC8-FF55-64E9A513E691}|shoes.csproj|solutionrelative:models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC5EAB-C380-FAC8-FF55-64E9A513E691}|shoes.csproj|c:\\users\\\u0435\u0433\u043E\u0440\\source\\repos\\mm\\shoes\\shoes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{30EC5EAB-C380-FAC8-FF55-64E9A513E691}|shoes.csproj|solutionrelative:shoes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC5EAB-C380-FAC8-FF55-64E9A513E691}|shoes.csproj|c:\\users\\\u0435\u0433\u043E\u0440\\source\\repos\\mm\\shoes\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EC5EAB-C380-FAC8-FF55-64E9A513E691}|shoes.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC5EAB-C380-FAC8-FF55-64E9A513E691}|shoes.csproj|c:\\users\\\u0435\u0433\u043E\u0440\\source\\repos\\mm\\shoes\\models\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EC5EAB-C380-FAC8-FF55-64E9A513E691}|shoes.csproj|solutionrelative:models\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC5EAB-C380-FAC8-FF55-64E9A513E691}|shoes.csproj|c:\\users\\\u0435\u0433\u043E\u0440\\source\\repos\\mm\\shoes\\models\\pickuppoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EC5EAB-C380-FAC8-FF55-64E9A513E691}|shoes.csproj|solutionrelative:models\\pickuppoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC5EAB-C380-FAC8-FF55-64E9A513E691}|shoes.csproj|c:\\users\\\u0435\u0433\u043E\u0440\\source\\repos\\mm\\shoes\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EC5EAB-C380-FAC8-FF55-64E9A513E691}|shoes.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC5EAB-C380-FAC8-FF55-64E9A513E691}|shoes.csproj|c:\\users\\\u0435\u0433\u043E\u0440\\source\\repos\\mm\\shoes\\models\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EC5EAB-C380-FAC8-FF55-64E9A513E691}|shoes.csproj|solutionrelative:models\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC5EAB-C380-FAC8-FF55-64E9A513E691}|shoes.csproj|c:\\users\\\u0435\u0433\u043E\u0440\\source\\repos\\mm\\shoes\\models\\provider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EC5EAB-C380-FAC8-FF55-64E9A513E691}|shoes.csproj|solutionrelative:models\\provider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC5EAB-C380-FAC8-FF55-64E9A513E691}|shoes.csproj|c:\\users\\\u0435\u0433\u043E\u0440\\source\\repos\\mm\\shoes\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EC5EAB-C380-FAC8-FF55-64E9A513E691}|shoes.csproj|solutionrelative:models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC5EAB-C380-FAC8-FF55-64E9A513E691}|shoes.csproj|c:\\users\\\u0435\u0433\u043E\u0440\\source\\repos\\mm\\shoes\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EC5EAB-C380-FAC8-FF55-64E9A513E691}|shoes.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0415\u0433\u043E\u0440\\Downloads\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\mm\\shoes\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\mm\\shoes\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAKMBAAAAAAAAAAAAADoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T04:18:54.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\mm\\shoes\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\mm\\shoes\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-25T07:52:52.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\mm\\shoes\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\mm\\shoes\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "LoginWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T20:19:50.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdersWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\mm\\shoes\\OrdersWindow.xaml.cs",
+              "RelativeDocumentMoniker": "OrdersWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\mm\\shoes\\OrdersWindow.xaml.cs",
+              "RelativeToolTip": "OrdersWindow.xaml.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAswBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T15:21:33.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderEditWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\mm\\shoes\\OrderEditWindow.xaml",
+              "RelativeDocumentMoniker": "OrderEditWindow.xaml",
+              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\mm\\shoes\\OrderEditWindow.xaml",
+              "RelativeToolTip": "OrderEditWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-25T15:22:24.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderEditWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\mm\\shoes\\OrderEditWindow.xaml.cs",
+              "RelativeDocumentMoniker": "OrderEditWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\mm\\shoes\\OrderEditWindow.xaml.cs*",
+              "RelativeToolTip": "OrderEditWindow.xaml.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T15:22:36.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrdersWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\mm\\shoes\\OrdersWindow.xaml",
+              "RelativeDocumentMoniker": "OrdersWindow.xaml",
+              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\mm\\shoes\\OrdersWindow.xaml",
+              "RelativeToolTip": "OrdersWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-25T15:21:20.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\mm\\shoes\\ProductWindow.xaml",
+              "RelativeDocumentMoniker": "ProductWindow.xaml",
+              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\mm\\shoes\\ProductWindow.xaml",
+              "RelativeToolTip": "ProductWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-25T14:48:44.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\mm\\shoes\\ProductWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ProductWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\mm\\shoes\\ProductWindow.xaml.cs",
+              "RelativeToolTip": "ProductWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T14:53:01.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\mm\\shoes\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\mm\\shoes\\LoginWindow.xaml",
+              "RelativeToolTip": "LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-24T20:19:36.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Manufacturer.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\mm\\shoes\\Models\\Manufacturer.cs",
+              "RelativeDocumentMoniker": "Models\\Manufacturer.cs",
+              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\mm\\shoes\\Models\\Manufacturer.cs",
+              "RelativeToolTip": "Models\\Manufacturer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T08:24:26.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\mm\\shoes\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\mm\\shoes\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-24T20:23:41.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\AppData\\Local\\Temp\\.vsdbgsrc\\bed5b82c0d9f7911686d93abe490c7a7cc74d504e5b20b2499f2b1a9a1a8dd57\\XamlReader.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\bed5b82c0d9f7911686d93abe490c7a7cc74d504e5b20b2499f2b1a9a1a8dd57\\XamlReader.cs",
+              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\AppData\\Local\\Temp\\.vsdbgsrc\\bed5b82c0d9f7911686d93abe490c7a7cc74d504e5b20b2499f2b1a9a1a8dd57\\XamlReader.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\bed5b82c0d9f7911686d93abe490c7a7cc74d504e5b20b2499f2b1a9a1a8dd57\\XamlReader.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AgIAAAACAAAAAAAAAAAAwA4CAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T20:23:08.601Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\mm\\shoes\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\mm\\shoes\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Models\\AppDbContext.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA/wLYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T04:22:50.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "shoes.csproj",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\mm\\shoes\\shoes.csproj",
+              "RelativeDocumentMoniker": "shoes.csproj",
+              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\mm\\shoes\\shoes.csproj",
+              "RelativeToolTip": "shoes.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-24T20:19:17.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderProduct.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\mm\\shoes\\Models\\OrderProduct.cs",
+              "RelativeDocumentMoniker": "Models\\OrderProduct.cs",
+              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\mm\\shoes\\Models\\OrderProduct.cs",
+              "RelativeToolTip": "Models\\OrderProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T07:35:53.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PickupPoint.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\mm\\shoes\\Models\\PickupPoint.cs",
+              "RelativeDocumentMoniker": "Models\\PickupPoint.cs",
+              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\mm\\shoes\\Models\\PickupPoint.cs",
+              "RelativeToolTip": "Models\\PickupPoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T08:24:47.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\mm\\shoes\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\mm\\shoes\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T07:35:44.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\mm\\shoes\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\mm\\shoes\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA6wCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T07:35:34.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductCategory.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\mm\\shoes\\Models\\ProductCategory.cs",
+              "RelativeDocumentMoniker": "Models\\ProductCategory.cs",
+              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\mm\\shoes\\Models\\ProductCategory.cs",
+              "RelativeToolTip": "Models\\ProductCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T08:24:57.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Provider.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\mm\\shoes\\Models\\Provider.cs",
+              "RelativeDocumentMoniker": "Models\\Provider.cs",
+              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\mm\\shoes\\Models\\Provider.cs",
+              "RelativeToolTip": "Models\\Provider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T08:25:01.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\mm\\shoes\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Models\\Role.cs",
+              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\mm\\shoes\\Models\\Role.cs",
+              "RelativeToolTip": "Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T08:25:05.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\mm\\shoes\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\mm\\shoes\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T06:29:07.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\Downloads\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\Downloads\\MainWindow.xaml.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAnwEkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T08:18:11.587Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

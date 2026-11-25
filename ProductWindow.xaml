@@ -1,0 +1,151 @@
+﻿<Window x:Class="shoes.ProductWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Товар"
+        Icon="/Image/Icon.png"
+        Height="800"
+        Width="720"
+        ResizeMode="NoResize"
+        WindowStartupLocation="CenterOwner"
+        FontFamily="Times New Roman"
+        FontSize="14"
+        Background="White">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="70"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="65"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0" Background="#7FFF00">
+            <TextBlock x:Name="textHeader"
+                       FontSize="26"
+                       FontWeight="Bold"
+                       VerticalAlignment="Center"
+                       HorizontalAlignment="Center"/>
+        </Grid>
+
+        <Grid Grid.Row="1" Margin="20,15,20,0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="220"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <StackPanel Grid.Column="0" Margin="0,0,20,0">
+                <Border BorderBrush="Black"
+                        BorderThickness="1"
+                        Width="200"
+                        Height="150">
+                    <Image x:Name="imagePhoto"
+                           Margin="5"
+                           Stretch="Uniform"/>
+                </Border>
+
+                <Button x:Name="buttonChoosePhoto"
+                        Content="Выбрать фото"
+                        Width="200"
+                        Height="30"
+                        Margin="0,10,0,0"
+                        Background="#00FA9A"
+                        Click="ButtonChoosePhoto_Click"/>
+
+                <TextBlock Text="Фото уменьшается до 300×200 пикселей"
+                           TextWrapping="Wrap"
+                           Width="200"
+                           Margin="0,6,0,0"
+                           Foreground="Gray"/>
+            </StackPanel>
+
+            <StackPanel Grid.Column="1">
+
+                <TextBlock Text="Артикул" Margin="0,0,0,2"/>
+                <TextBox x:Name="textArticle"
+                         Height="28"
+                         VerticalContentAlignment="Center"
+                         Margin="0,0,0,8"/>
+
+                <TextBlock Text="Наименование товара" Margin="0,0,0,2"/>
+                <TextBox x:Name="textName"
+                         Height="28"
+                         VerticalContentAlignment="Center"
+                         Margin="0,0,0,8"/>
+
+                <TextBlock Text="Категория товара" Margin="0,0,0,2"/>
+                <ComboBox x:Name="comboCategory"
+                          Height="28"
+                          DisplayMemberPath="ProductCategory1"
+                          SelectedValuePath="ProductCategoryId"
+                          Margin="0,0,0,8"/>
+
+                <TextBlock Text="Описание товара" Margin="0,0,0,2"/>
+                <TextBox x:Name="textDescription"
+                         Height="60"
+                         TextWrapping="Wrap"
+                         AcceptsReturn="True"
+                         VerticalScrollBarVisibility="Auto"
+                         Margin="0,0,0,8"/>
+
+                <TextBlock Text="Производитель" Margin="0,0,0,2"/>
+                <ComboBox x:Name="comboManufacturer"
+                          Height="28"
+                          DisplayMemberPath="Manufacturer1"
+                          SelectedValuePath="ManufacturerId"
+                          Margin="0,0,0,8"/>
+
+                <TextBlock Text="Поставщик" Margin="0,0,0,2"/>
+                <ComboBox x:Name="comboProvider"
+                          Height="28"
+                          DisplayMemberPath="Provider1"
+                          SelectedValuePath="ProviderId"
+                          Margin="0,0,0,8"/>
+
+                <TextBlock Text="Цена, руб." Margin="0,0,0,2"/>
+                <TextBox x:Name="textPrice"
+                         Height="28"
+                         VerticalContentAlignment="Center"
+                         Margin="0,0,0,8"/>
+
+                <TextBlock Text="Единица измерения" Margin="0,0,0,2"/>
+                <TextBox x:Name="textUnit"
+                         Height="28"
+                         VerticalContentAlignment="Center"
+                         Margin="0,0,0,8"/>
+
+                <TextBlock Text="Количество на складе" Margin="0,0,0,2"/>
+                <TextBox x:Name="textStock"
+                         Height="28"
+                         VerticalContentAlignment="Center"
+                         Margin="0,0,0,8"/>
+
+                <TextBlock Text="Действующая скидка, %" Margin="0,0,0,2"/>
+                <TextBox x:Name="textDiscount"
+                         Height="28"
+                         VerticalContentAlignment="Center"/>
+            </StackPanel>
+        </Grid>
+
+        <StackPanel Grid.Row="2"
+                    Orientation="Horizontal"
+                    HorizontalAlignment="Right"
+                    VerticalAlignment="Center"
+                    Margin="0,0,20,0">
+
+            <Button x:Name="buttonBack"
+                    Content="Назад"
+                    Width="120"
+                    Height="34"
+                    Margin="0,0,10,0"
+                    Background="White"
+                    Click="ButtonBack_Click"/>
+
+            <Button x:Name="buttonSave"
+                    Content="Сохранить"
+                    Width="120"
+                    Height="34"
+                    FontWeight="Bold"
+                    Background="#00FA9A"
+                    Click="ButtonSave_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

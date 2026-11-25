@@ -1,0 +1,72 @@
+﻿<Window x:Class="shoes.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Вход в систему"
+        Icon="/Image/Icon.ico"
+        Height="480"
+        Width="420"
+        ResizeMode="NoResize"
+        WindowStartupLocation="CenterScreen"
+        FontFamily="Times New Roman"
+        FontSize="14"
+        Background="White">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0" Background="#7FFF00">
+            <StackPanel Orientation="Horizontal"
+                        HorizontalAlignment="Center"
+                        VerticalAlignment="Center">
+
+                <Image Source="/Image/Icon.ico"
+                       Width="70"
+                       Height="70"
+                       Stretch="Uniform"
+                       Margin="0,0,15,0"/>
+
+                <TextBlock Text="Авторизация"
+                           FontSize="28"
+                           FontWeight="Bold"
+                           VerticalAlignment="Center"/>
+            </StackPanel>
+        </Grid>
+
+        <StackPanel Grid.Row="1"
+                    Margin="40,25,40,20"
+                    VerticalAlignment="Center">
+
+            <TextBlock Text="Логин" Margin="0,0,0,3"/>
+
+            <TextBox x:Name="textLogin"
+                     Height="30"
+                     VerticalContentAlignment="Center"
+                     Margin="0,0,0,15"/>
+
+            <TextBlock Text="Пароль" Margin="0,0,0,3"/>
+
+            <PasswordBox x:Name="passwordBox"
+                         Height="30"
+                         VerticalContentAlignment="Center"
+                         Margin="0,0,0,25"/>
+
+            <Button x:Name="buttonLogin"
+                    Content="Войти"
+                    Height="38"
+                    FontWeight="Bold"
+                    Background="#00FA9A"
+                    IsDefault="True"
+                    Margin="0,0,0,10"
+                    Click="ButtonLogin_Click"/>
+
+            <Button x:Name="buttonGuest"
+                    Content="Войти как гость"
+                    Height="38"
+                    Background="White"
+                    Click="ButtonGuest_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>
